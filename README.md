@@ -35,3 +35,5 @@ The parameters: $a = 1938$, $b= 31$ generate functions of domain sizes upto 512 
 ```
 
 We can generate many such primes that accomodate the required patterns of residues and non-residues, within the required parameter lengths. 
+
+This code is related to the paper: M. Pratapa & A. Essex, Secure Function Extensions to Additively Homomorphic Cryptosystems, Selected Areas in Cryptography 2023. Available at: https://eprint.iacr.org/2023/1155
